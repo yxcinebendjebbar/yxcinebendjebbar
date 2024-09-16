@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on any open source project (preferably web dev)<br>🤝 I’m looking for help with mobile development<br>🌱 I’m currently learning go lang for network purposes<br>💬 Ask me about
+👯 I’m looking to collaborate on any open source project (preferably web dev)<br>🤝 I’m looking for help with mobile development<br>🌱 I’m currently learning go lang for network purposes<br>💬 Ask me about anything you want to know! :)
 
 
 ## 🌐 Socials:
